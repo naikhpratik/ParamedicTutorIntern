@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>C1E2F436-3475-40EF-9B21-B69856FEEA81</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Quiz</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>9F455B6D-092B-476E-9240-5B34A3F1880D</key>
+		<string>https://192.168.1.25:8443/svn/Quiz_iPhone</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>EMTutor_iOS/Quiz.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>9F455B6D-092B-476E-9240-5B34A3F1880D</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>9F455B6D-092B-476E-9240-5B34A3F1880D</key>
+		<string>https://192.168.1.25:8443/svn/Quiz_iPhone</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://192.168.1.25:8443/svn/Quiz_iPhone/trunk/Quiz.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>9F455B6D-092B-476E-9240-5B34A3F1880D</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryBranchesRelativeLocationKey</key>
+			<string>branches</string>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlRepositoryTagsRelativeLocationKey</key>
+			<string>tags</string>
+			<key>IDESourceControlRepositoryTrunkRelativeLocationKey</key>
+			<string>trunk</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>9F455B6D-092B-476E-9240-5B34A3F1880D</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Quiz_iPhone</string>
+		</dict>
+	</array>
+</dict>
+</plist>

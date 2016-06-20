@@ -1,0 +1,23 @@
+//
+// Prefix header for all source files of the 'Quiz' target in the 'Quiz' project
+//
+#import <Availability.h>
+
+#ifndef __IPHONE_3_0
+#warning "This project uses features only available in iPhone SDK 3.0 and later."
+#endif
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+    #import <UIKit/UIKit.h>
+    #import "Constants.h"
+#endif
+
+#define SAVEQIZ_RIGHTCOUNT @"right_qiz"
+#define SAVEQIZ_DONECOUNT @"done_qiz"
+#define INDEXQIZ_LAST @"last_qiz"
+#define CHAPTERQIZ_NAME @"chapter_qiznames"
+#define INDEXCARD_LAST @"last_card"
+#define FIRSTTOUCH_LAST @"firstTouch"
+
+#define iPhone5 ([UIScreen instancesRespondToSelector:@selector(currentMode)] ? CGSizeEqualToSize(CGSizeMake(640, 1136), [[UIScreen mainScreen] currentMode].size) : NO)
